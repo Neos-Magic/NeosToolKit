@@ -1,7 +1,7 @@
 # NeosToolKit
 Neos Toolkit es una aplicación de escritorio con interfaz gráfica (GUI) moderna escrita en Python que consolida herramientas matemáticas y utilidades de auditoría/diagnóstico de red en un solo panel interactivo.
 
-#🚀 Cómo Arrancarlo (Requisitos)
+🚀 Cómo Arrancarlo (Requisitos)
 Instalar Python: Necesitas tener instalado Python 3.x en tu sistema. Al instalarlo en Windows, es vital marcar la casilla que dice "Add Python to PATH".
 
 Instalar Dependencias: La aplicación requiere el módulo externo customtkinter. Puedes instalarlo manualmente abriendo tu consola y ejecutando:
@@ -10,7 +10,7 @@ Bash
 pip install customtkinter
 (Nota: El archivo .bat que te dejaré abajo intentará validar e instalar esto de forma automática por ti).
 
-#🎯 Explicación de los Módulos de la Aplicación
+🎯 Explicación de los Módulos de la Aplicación
 La interfaz se divide en una barra de navegación lateral izquierda y un contenedor dinámico a la derecha:
 
 
